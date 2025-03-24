@@ -10,10 +10,10 @@ public class tst {
 
         for (int nums : num) {
             System.out.print(nums + " ");
-        
+
         }
         System.out.println();
-        System.out.println("This is the second array")l
+        System.out.println("This is the second array");
 
     }
 }
